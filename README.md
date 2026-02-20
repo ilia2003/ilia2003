@@ -41,6 +41,10 @@ Async programming • REST APIs • Testing (pytest)
 
 ## Selected Projects
 
+**Qliqy**  
+Collaborative backend service developed within the [QliqyService organization](https://github.com/QliqyService).  
+Contributed to API implementation, database design, and asynchronous backend communication.
+
 **Foodgram**  
 Full-stack recipe platform (Django, DRF, PostgreSQL, Docker)
 
@@ -53,8 +57,6 @@ Asynchronous FastAPI backend with FIFO investment logic
 **Scrapy Parser PEP**  
 Asynchronous parser for peps.python.org (Scrapy)
 
-**bs4 Parser**  
-CLI tool for parsing Python documentation (BeautifulSoup)
 
 ---
 
